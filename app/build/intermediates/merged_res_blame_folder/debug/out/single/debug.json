@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/layout_activity_cart.xml.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/layout/activity_cart.xml"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/drawable_cafe3.jpeg.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/drawable/cafe3.jpeg"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/drawable_cafe_sua.jpeg.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/drawable/cafe_sua.jpeg"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/drawable_espresso.jpg.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/drawable/espresso.jpg"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/layout_activity_espresso.xml.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/layout/activity_espresso.xml"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/drawable_black_coffee.jpg.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/drawable/black_coffee.jpg"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/drawable_btn_style1.xml.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/drawable/btn_style1.xml"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/drawable_text_background.xml.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/drawable/text_background.xml"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/drawable_plus.png.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/drawable/plus.png"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/drawable_menu_coffee.xml.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/drawable/menu_coffee.xml"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/drawable_cafe6.jpg.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/drawable/cafe6.jpg"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/drawable_btn_style.xml.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/drawable/btn_style.xml"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/layout_activity_order_place.xml.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/layout/activity_order_place.xml"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/layout_activity_menu_coffee.xml.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/layout/activity_menu_coffee.xml"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/drawable_cacao.jpeg.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/drawable/cacao.jpeg"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/drawable_minus.png.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/drawable/minus.png"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/drawable_table.jpg.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/drawable/table.jpg"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/drawable_table_pic.xml.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/drawable/table_pic.xml"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/drawable_cafe_img.xml.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/drawable/cafe_img.xml"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/layout_activity_black_coffee.xml.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/layout/activity_black_coffee.xml"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/drawable_cafe_icon.xml.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/drawable/cafe_icon.xml"
+    },
+    {
+        "merged": "/home/thanh/App/Android/HelloWorld/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/thanh/App/Android/HelloWorld/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    }
+]
